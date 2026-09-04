@@ -14,7 +14,7 @@ I am a Computer Science Engineering student interested in **Web Development, Clo
 
 | Details                    | Information                                            |
 | -------------------------- | ------------------------------------------------------ |
-| **Intern Name**            | Prateek Dwivedi ,                                      |
+| **Intern Name**            | Prateek Dwivedi                                        |
 | **Organization**           | YuvaIntern                                             |
 | **Role**                   | Junior Web Developer – E-Governance & Digital Services |
 | **Internship Type**        | Summer Internship                                      |
