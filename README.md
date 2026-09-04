@@ -1,9 +1,9 @@
-# Summer Internship – Junior Web Developer
+# Student, IILM Summer Internship – Junior Web Developer
 
 ## 👨‍💻 About Me
 
 **Prateek Dwivedi,2410030222**
-B.Tech Computer Science & Engineering Student
+B.Tech Computer Science & Engineering Student,IILM University
 Specialization: Cloud Computing
 
 I am a Computer Science Engineering student interested in **Web Development, Cloud Computing, Software Development, and Database Technologies**. I enjoy learning new technologies and applying my knowledge to practical projects.
@@ -158,31 +158,11 @@ I successfully completed the internship as **Junior Web Developer – E-Governan
 
 ---
 
-## 👨‍💻 About Prateek Dwivedi
-
-I am a **B.Tech Computer Science & Engineering student specializing in Cloud Computing**, currently developing my skills in:
-
-* 💻 C / C++
-* 🐍 Python
-* ☕ Java
-* 🗄️ SQL
-* 🌐 HTML & CSS
-* ⚡ JavaScript
-* ☁️ Cloud Computing
-* 🧩 Data Structures & Algorithms
-* 🧪 Software Testing
-
-I am continuously working on academic and practical projects to improve my programming, problem-solving, web development, and cloud computing skills.
-
----
-
 ## 📫 Connect With Me
 
 **Prateek Dwivedi**
 
-* GitHub: `Add your GitHub profile link`
-* LinkedIn: `Add your LinkedIn profile link`
-* Email: `Add your professional email`
+* GitHub: https://github.com/Prateek-hub-coder/2024-28_Prateek_Dwivedi_2410030222_5th_semester_3CSE17.git
 
 ---
 
